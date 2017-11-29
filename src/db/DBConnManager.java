@@ -10,7 +10,7 @@ public class DBConnManager {
 	static String dbName = "stdt080"; // 여러분 DB 이름으로 수정
 	static String user = "stdt080"; // 여러분 계정 이름으로 수정
 	static String pswd = ""; // 여러분 비밀번호로 수정
-		
+
 	// static block (클래스가 JVM에 로딩될 때 실행됨)
 	static {
 		// JDBC 드라이버 로딩
